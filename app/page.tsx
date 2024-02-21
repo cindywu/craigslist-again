@@ -1,3 +1,4 @@
+import Home from "./ui/home";
 export default function Page() {
-  return <div>craigslist again</div>;
+  return <Home />;
 }
